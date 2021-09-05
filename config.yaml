@@ -31,10 +31,10 @@ menu:
       pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
       url: https://github.com/mahardisetyoso
       weight: 1
-    - identifier: stackoverflow
-      name: Stack Overflow
-      pre: <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
-      url: https://stackoverflow.com/users/10455414/mahardi-setyoso
+    - identifier: youtube
+      name: Youtube
+      pre: <i class="sidebar-button-icon fab fa-youtube" aria-hidden="true"></i>
+      url: https://www.youtube.com/channel/UCnpQpoOGvdECWri7sNteCpg
       weight: 3
     - identifier: linkedin
       name: Linkedin
@@ -72,6 +72,11 @@ menu:
       pre: <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
       url: /#about
       weight: 5
+    - identifier: project
+      name: Project
+      pre: <i class="sidebar-button-icon fas fa-laptop" aria-hidden="true"></i>
+      url: /#about
+      weight: 6
   misc:
     - identifier: rss
       name: RSS
