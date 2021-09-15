@@ -75,7 +75,7 @@ menu:
     - identifier: project
       name: Project
       pre: <i class="sidebar-button-icon fas fa-laptop" aria-hidden="true"></i>
-      url: /#about
+      url: /#project
       weight: 6
   misc:
     - identifier: rss
