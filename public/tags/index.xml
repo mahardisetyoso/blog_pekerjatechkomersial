@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pekerja Tech Komersial</title>
+    <link>https://pekerjatechkomersial.netlify.app/tags/</link>
+    <description>Recent content in Tags on Pekerja Tech Komersial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pekerjatechkomersial.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R Markdown</title>
+      <link>https://pekerjatechkomersial.netlify.app/tags/r-markdown/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pekerjatechkomersial.netlify.app/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
